@@ -23,11 +23,7 @@
         <hr>
         @yield('content')
         <hr>
-        <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Ipsum explicabo sequi, ipsam perspiciatis dolorum voluptatum dignissimos assumenda sit molestiae nobis natus laborum obcaecati, soluta cupiditate repellat sed? Et, labore laborum.</p>
-        <p>Natus velit reiciendis minima. Ex exercitationem necessitatibus explicabo provident? Officia eos unde optio dolor, autem modi, dolore commodi itaque quo totam ex molestias et molestiae ratione! Error quasi vel tempora.</p>
-        <p>Adipisci odio aut non iusto assumenda corporis odit rerum voluptate doloribus! Consectetur, cumque? Quos deleniti omnis voluptatibus, sunt officia unde aliquam necessitatibus odio voluptatem sint, inventore at accusamus, distinctio explicabo.</p>
-        <p>Rerum sit doloribus, illum, et repellat impedit quia blanditiis fugiat, dolorem reprehenderit maxime consequuntur ipsam quam? Dolorum nihil alias suscipit eaque quo asperiores velit explicabo quasi facilis, quibusdam soluta earum?</p>
-        <p>Error sapiente suscipit eius et voluptatibus aliquid distinctio incidunt molestiae tenetur quaerat adipisci maiores delectus ad ut, a non possimus, accusamus quidem laborum iure esse repellendus. Voluptatum earum quaerat placeat!</p>
+        
     </div>
 </body>
 </html>

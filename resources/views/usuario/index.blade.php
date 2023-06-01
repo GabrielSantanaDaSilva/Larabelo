@@ -1,11 +1,14 @@
 @extends('layouts.base')
 <h1>Usuarios</h1>
+
+
+
+@section('content')
+
 <p>
     {{$usuarios->links() }}
 </p>
 
-
-@section('content')
 <table class="table table-border table-striped">
     <thead>
         <tr>
@@ -20,7 +23,11 @@
 
 
         <tr>
-            <td></td>
+            <td>
+                <a href="{{ route('usuario.show', ['id'=>$usuario->id]) }}" class="btn btn-success">
+                    Ver
+                </a>
+            </td>
             <td>{{$usuario->name}}</td>
             <td>{{$usuario->email}}</td>
             <td>{{$usuario->created_at->format('d/m/y')}}</td>
